@@ -1,0 +1,1647 @@
+[
+  {
+    "agencyCode": 298,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 311,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 316,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 324,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 355,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 358,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 365,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 423,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 426,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 431,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 432,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 454,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 459,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 472,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 497,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 507,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 519,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 556,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 590,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 620,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 646,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 696,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 737,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 749,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 750,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 785,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 787,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 811,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 812,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 834,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 861,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 873,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 891,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 908,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 936,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 986,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1007,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1018,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1040,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1044,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1047,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1053,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1055,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1058,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1112,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 1121,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1159,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1199,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1200,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1257,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1296,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 1324,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1346,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1364,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1428,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1485,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1498,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1501,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1621,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 1635,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 1645,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1671,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1690,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1691,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1771,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1772,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1788,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1811,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1850,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1896,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1914,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1922,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1925,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 1949,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2027,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2044,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2050,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 2058,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2082,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2094,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2146,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2163,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2228,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2239,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2262,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2277,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2301,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2356,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2388,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2404,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2414,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2451,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2452,
+    "slotAvailable": 0,
+    "slotRemained": 0
+    },
+    {
+    "agencyCode": 2474,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 2478,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2480,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2495,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 2525,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2529,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2545,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2546,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2580,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2621,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2631,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2644,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2648,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2678,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2691,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 2692,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2750,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2766,
+    "slotAvailable": 1,
+    "slotRemained": 1
+    },
+    {
+    "agencyCode": 2767,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2768,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2772,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2793,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2803,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2832,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2846,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2848,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2889,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2915,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2923,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2925,
+    "slotAvailable": 0,
+    "slotRemained": 0
+    },
+    {
+    "agencyCode": 2952,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2957,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 2966,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 2969,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3032,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3046,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3048,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3064,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3075,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3093,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3112,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3113,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3121,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3131,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3150,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3177,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3178,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3199,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3205,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3213,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3231,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3233,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3258,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3270,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3291,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3302,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3312,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3324,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3340,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3351,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3416,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3419,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3429,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3437,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3443,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3459,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3490,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3496,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3497,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3503,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3525,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3548,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3577,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3584,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3594,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3630,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3641,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3655,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3673,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 3684,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3699,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3726,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3729,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3753,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3763,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3797,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3803,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3804,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3809,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3830,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3841,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3851,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 3856,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 3859,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3863,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3864,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3879,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3881,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 3899,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3934,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3958,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 3969,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 3975,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4012,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4025,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 4076,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4098,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4103,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4114,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4115,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4116,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4132,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4138,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4144,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4225,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 4236,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4275,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4277,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 4312,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4316,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4360,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4435,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4474,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4520,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4559,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4576,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4580,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4603,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4604,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4623,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 4646,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4665,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4685,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4686,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 4732,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4748,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4761,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4762,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4786,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4799,
+    "slotAvailable": 8,
+    "slotRemained": 8
+    },
+    {
+    "agencyCode": 4809,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4817,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4855,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4897,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4908,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 4926,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5014,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5029,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5048,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5051,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5057,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5066,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5075,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5076,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5088,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5138,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5146,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5169,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5178,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5181,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5220,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 5228,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5259,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5263,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5270,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5318,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5329,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5330,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5363,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5367,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5399,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5402,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5421,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5423,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5432,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5433,
+    "slotAvailable": 6,
+    "slotRemained": 6
+    },
+    {
+    "agencyCode": 5454,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5457,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5465,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5471,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5491,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5501,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5511,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5512,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5549,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5570,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5575,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5579,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5581,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5619,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5633,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5634,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5668,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5669,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5670,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5673,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5674,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5677,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5678,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5684,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5685,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5717,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5718,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5733,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5751,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5755,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5757,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5765,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5767,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5770,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5778,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5802,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5803,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5810,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5813,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5816,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5865,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5866,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5886,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5892,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5894,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5900,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5908,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5914,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5951,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5973,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 5990,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 6022,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 6028,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 6031,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 6053,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 6054,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 6114,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 6118,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 6166,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    },
+    {
+    "agencyCode": 6024,
+    "slotAvailable": 4,
+    "slotRemained": 4
+    }
+]
