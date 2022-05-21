@@ -22,6 +22,9 @@ const agencySlotsSchema = new Schema({
         type: String,
         trim: true,
       },
+      time: {
+        type: String
+      },
       createdAt: {
         type: Date,
         default: Date.now,

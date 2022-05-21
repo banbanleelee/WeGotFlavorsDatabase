@@ -1,4 +1,3 @@
-const signUp = require('./signUp');
 const agencySlots = require('./agencySlots');
 
-module.exports = { signUp, agencySlots };
+module.exports = { agencySlots };

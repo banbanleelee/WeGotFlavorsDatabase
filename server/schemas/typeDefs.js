@@ -14,18 +14,19 @@ const typeDefs = gql`
     _id: ID
     micoId: Int
     eventName: String
+    time: String
     createdAt: String
   }
 
   type Query {
     allAgencySlots: [AgencySlots]!
-    agencySlotByCode(agencyId: ID!): AgencySlots
+    agencySlotByCode(agencyCode: Int!): AgencySlots
   }
 
   type Mutation {
     addAgency(agencyCode: Int!, slotAvailable: Int!): AgencySlots
-    signUp(agencyId: ID!, micoId: Int!, eventName: String!): AgencySlots
-    removeSignUp(agencyId: ID!, micoId: ID!): AgencySlots
+    signUp(agencyCode: Int!, micoId: Int!, eventName: String!, time: String!): AgencySlots
+    removeSignUp(agencyCode: Int!, micoId: Int!): AgencySlots
   }
 `;
 

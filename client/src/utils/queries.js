@@ -1,26 +1,27 @@
 import { gql } from '@apollo/client';
 
 export const QUERY_ALL_AGENCY = gql`
-  query AllAgencySlots {
-    allAgencySlots {
+query allAgencySlots {
+  allAgencySlots {
+    _id
+    agencyCode
+    slotAvailable
+    participatedIds {
       _id
-      agencyCode
-      slotAvailable
-      participatedIds {
-        _id
-        micoId
-        eventName
-        createdAt
-      }
-      slotRemained
+      micoId
+      eventName
+      time
       createdAt
     }
+    slotRemained
+    createdAt
   }
+}
 `;
 
 export const QUERY_SINGLE_AGENCY = gql`
-  query AgencySlotByCode($agencyId: ID!) {
-    agencySlotByCode(agencyId: $agencyId) {
+  query agencySlotByCode($agencyCode: Int!) {
+    agencySlotByCode(agencyCode: $agencyCode) {
       _id
       agencyCode
       slotAvailable
@@ -28,6 +29,7 @@ export const QUERY_SINGLE_AGENCY = gql`
         _id
         micoId
         eventName
+        time
         createdAt
       }
       slotRemained

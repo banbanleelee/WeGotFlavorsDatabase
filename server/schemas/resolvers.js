@@ -6,8 +6,8 @@ const resolvers = {
       return agencySlots.find().sort({ createdAt: -1 });
     },
 
-    agencySlotByCode: async (parent, { agencyId }) => {
-      return agencySlots.findOne({ _id: agencyId });
+    agencySlotByCode: async (parent, { agencyCode }) => {
+      return agencySlots.findOne({ agencyCode: agencyCode });
     },
 
 
@@ -17,20 +17,20 @@ const resolvers = {
     addAgency: async (parent, { agencyCode, slotAvailable }) => {
       return agencySlots.create({ agencyCode, slotAvailable });
     },
-    signUp: async (parent, { agencyId, micoId, eventName }) => {
+    signUp: async (parent, { agencyCode, micoId, eventName, time }) => {
       return agencySlots.findOneAndUpdate(
-        { _id: agencyId },
-        { $addToSet: { participatedIds: { micoId, eventName } } },
+        { agencyCode: agencyCode },
+        { $addToSet: { participatedIds: { micoId, eventName, time } } },
         {
           new: true,
           runValidators: true,
         }
       );
     },
-    removeSignUp: async (parent, { agencyId, micoId }) => {
+    removeSignUp: async (parent, { agencyCode, micoId }) => {
       return agencySlots.findOneAndUpdate(
-        { _id: agencyId },
-        { $pull: { participatedIds: { _id: micoId } } },
+        { agencyCode: agencyCode },
+        { $pull: { participatedIds: { micoId: micoId } } },
         { new: true }
       );
     },

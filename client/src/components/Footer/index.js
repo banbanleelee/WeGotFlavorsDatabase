@@ -25,7 +25,9 @@ const Footer = () => {
           >
             ❤️
           </span>{' '}
-          by Sally.
+        </h4>
+        <h4>
+          Mico WGF Team
         </h4>
       </div>
     </footer>

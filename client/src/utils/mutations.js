@@ -1,32 +1,58 @@
 import { gql } from '@apollo/client';
 
-export const ADD_THOUGHT = gql`
-  mutation addThought($thoughtText: String!, $thoughtAuthor: String!) {
-    addThought(thoughtText: $thoughtText, thoughtAuthor: $thoughtAuthor) {
+export const ADD_AGENCY = gql`
+  mutation addAgency($agencyCode: Int!, $slotAvailable: Int!) {
+    addAgency(agencyCode: $agencyCode, slotAvailable: $slotAvailable) {
       _id
-      thoughtText
-      thoughtAuthor
-      createdAt
-      comments {
+      agencyCode
+      slotAvailable
+      participatedIds {
         _id
-        commentText
+        micoId
+        eventName
+        time
+        createdAt
       }
+      slotRemained
+      createdAt
     }
   }
 `;
 
-export const ADD_COMMENT = gql`
-  mutation addComment($thoughtId: ID!, $commentText: String!) {
-    addComment(thoughtId: $thoughtId, commentText: $commentText) {
+export const SIGN_UP = gql`
+  mutation signUp($agencyCode: Int!, $micoId: Int!, $eventName: String!, $time: String!) {
+    signUp(agencyCode: $agencyCode, micoId: $micoId, eventName: $eventName, time: $time) {
       _id
-      thoughtText
-      thoughtAuthor
-      createdAt
-      comments {
+      agencyCode
+      slotAvailable
+      participatedIds {
         _id
-        commentText
+        micoId
+        eventName
+        time
         createdAt
       }
+      slotRemained
+      createdAt
+    }
+  }
+`;
+
+export const REMOVE_SIGN_UP = gql`
+  mutation removeSignUp($agencyCode: Int!, $micoId: Int!) {
+    removeSignUp(agencyCode: $agencyCode, micoId: $micoId) {
+      _id
+      agencyCode
+      slotAvailable
+      participatedIds {
+        _id
+        micoId
+        eventName
+        time
+        createdAt
+      }
+      slotRemained
+      createdAt
     }
   }
 `;
