@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { useParams } from 'react-router-dom';
-import { useQuery  } from '@apollo/client';
+import { useQuery } from '@apollo/client';
 
 
 import { QUERY_SINGLE_AGENCY } from '../utils/queries';
@@ -32,12 +32,14 @@ const Agency = () => {
 
   console.log(`agency: ${agency.agencyCode}`)
   console.log(`pidlength: ${(agency.participatedIds.length)}`);
-
+     
   const participantsCount = agency.participatedIds.length;
+  const remainingSlots = agency.slotRemained;
   const participant = agency.participatedIds.map((each) =>
     <div className="row list-group">
         <div className="col-10">
             <p className="card-text"><b>{each.micoId}</b> signed up for <b>{each.eventName}</b> on {each.time}</p>
+
         </div>
         
     </div>
@@ -64,7 +66,12 @@ const Agency = () => {
             </div>
 
             <div className="p-4">
-                <EventForm agencyCode={agency.agencyCode} />
+                { remainingSlots>0 ? (
+                    <EventForm agencyCode={agency.agencyCode} />
+                ) : (
+                    <p><b>All slots are taken...</b></p>
+                    )
+                }
             </div>
             <div className="p-4">
                 <DeleteEventForm agencyCode={agency.agencyCode} />
