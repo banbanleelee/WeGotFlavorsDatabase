@@ -23,6 +23,8 @@ WHEN I click on each agency,
   I will be able to edit their current bookings.
   I can add and delete bookings, and the change will be reflected right away.
 ```
+![Main page](./client/public/demo1.PNG)
+![Agency page](./client/public/demo2.PNG)
 ## Technology Used
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
