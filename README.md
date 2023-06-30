@@ -8,7 +8,6 @@
 - [License](#license)
 
 ## General
-Website is deployed on [Heroku](https://aqueous-dawn-04920.herokuapp.com/)
 
 A user can manage event information and use the extra features.
 
